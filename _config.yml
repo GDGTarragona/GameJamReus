@@ -5,9 +5,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Game Jam URV - Reus 2016"
+title: "GameJam URV - Reus 2016"
 email: "conferencias@gdgtarragona.net"
-description: "Game Jam Reus Rocks!!"
+description: "GameJam Reus Rocks!!"
 baseurl: "/gamejamreus"
 url: "http://gdgtarragona.github.io"
 permalink: "/blog/:title"
@@ -24,7 +24,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgtarragona.net/"
 
 # Head
-metaKeywords: "event, gdg, programming, game jam, games, computer games, video games, developers, reus, Tarragona"
+metaKeywords: "event, gdg, programming, gamejam, games, computer games, video games, developers, reus, Tarragona"
 twitterAccount: "@GDGTarragona"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -50,7 +50,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Game Jam <typeout> 2016"
+heroTitle: "GameJam <typeout> 2016"
 eventDate: “06 Mayo, 2016"
 typeoutTextValues: '"", "Reus", "URV"'
 typeoutFallback: "Season"
@@ -59,16 +59,16 @@ heroButtons:
  - {permalink: "/#tickets", text: "Consigue una entrada"}
 
 # About Block
-aboutTitle: “Sobre Game Jam URV - Reus 2016"
+aboutTitle: “GameJam URV - Reus 2016"
 aboutBlock:
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience and game design. Come and tame your favourite technology!" }
- - {title: "Game Jam", image: "hackathon.jpg", text: "Full-day game jam hackaton! Want some real teambuilding on friday? Grab your team and join our game jam!" }
+ - {title: "GameJam", image: "hackathon.jpg", text: "Full-day gamejam hackaton! Want some real teambuilding on friday? Grab your team and join our gamejam!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "36", specialCharacter: "+", info: "hours", detail: "of pure Game Jam"}
+ - {count: "36", specialCharacter: "+", info: "hours", detail: "of pure GameJam"}
  - {count: "4", specialCharacter: "+", info: "speakers", detail: "from different areas"}
 
 # Latest News Block
