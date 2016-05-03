@@ -56,12 +56,15 @@
   title: "Presentacions Ponents"
   description: ""
   subtype: presentation
+  speakers: [0]
   language: ES
   complexity: "Intermediate"
 -
   id: 002
   title: "Presentacions Ponents"
+  description: ""
   subtype: presentation
+  speakers: [1]
   language: ES
   complexity: "Intermediate"
 -
