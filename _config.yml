@@ -160,7 +160,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Últimas noticias"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "GameJamReus"
 
 # Speakers List Block
