@@ -39,6 +39,6 @@
     title: ""
     bio: ""
     thumbnailUrl: unkown_boy.png
-    rockstar: true
+    rockstar: false
     social:
     - {name: "site", link: "http://gdgtarragona.net"}
