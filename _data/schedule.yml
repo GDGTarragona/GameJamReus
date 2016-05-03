@@ -17,16 +17,15 @@
     - {
         startTime: "18:00",
         endTime: "18:30",
-        sessionIds: [004]
+        sessionIds: [103]
     }
     - {
     	startTime: "18:30",
     	endTime: "21:00",
-    	sessionIds: [003]
+    	sessionIds: [104]
     }
     - {
         startTime: "21:00",
         endTime: "21:10",
-        sessionIds: [307]
+        sessionIds: [105]
     }
-    
