@@ -5,7 +5,7 @@
 - 
   group: "Co-organizers"
   elements:
-    - {name: "Alumnes Informàtica URV", description: "Alumnes Informàtica URV", link: "http://gdgtarragona.github.io/gamejamreus/", imageUrl: ""}
-    - {name: "Thinkit_ TGN Group", description: "Thinkit_ TGN Group", link: "https://www.facebook.com/thinkittgn", imageUrl: "organizer-logo.svg"}
+    - {name: "Alumnes Informàtica URV", description: "Alumnes Informàtica URV", link: "http://gdgtarragona.github.io/gamejamreus/", imageUrl: "none.png"}
+- {name: "Thinkit_ TGN Group", description: "Thinkit_ TGN Group", link: "https://www.facebook.com/thinkittgn", imageUrl: "logo_thinkit_it.png"}
 
 

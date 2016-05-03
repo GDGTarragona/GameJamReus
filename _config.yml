@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Como llegar"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "GameJam <typeout> 2016"
 eventDate: “06 Mayo, 2016"
 typeoutTextValues: '"", "Reus", "URV"'
