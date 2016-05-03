@@ -24,6 +24,16 @@
     place: "Hall"
     service: true
 -
+    id: 106
+    title: "Entrega treballs"
+    place: "Room 1"
+    service: true
+    -
+    id: 107
+    title: "Presentacions"
+    place: "Room 1"
+    service: true
+-
     id: 400
     title: "Pendiente"
     description: ""
