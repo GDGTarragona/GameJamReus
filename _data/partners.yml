@@ -1,5 +1,5 @@
 
-
+-
   group: "With support of"
   elements: 
     - {name: "Ajuntament de Reus", description: "Google", link: "https://www.reus.cat", imageUrl: "reustransport.png", width: "120px"}
