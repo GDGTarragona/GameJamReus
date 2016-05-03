@@ -59,11 +59,10 @@ heroButtons:
  - {permalink: "/#tickets", text: "Consigue una entrada"}
 
 # About Block
-aboutTitle: “Sobre GDG Tarragona"
+aboutTitle: “Sobre Game Jam URV - Reus 2016"
 aboutBlock:
- - {title: "Conferencias", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience and game design. Come and tame your favourite technology!" }
+ - {title: "Game Jam", image: "hackathon.jpg", text: "Full-day game jam hackaton! Want some real teambuilding on friday? Grab your team and join our game jam!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
