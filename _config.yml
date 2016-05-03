@@ -5,13 +5,13 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Reus 2014"
+title: "Game Jam URV - Reus 2016"
 email: "conferencias@gdgtarragona.net"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+description: "Game Jam Reus Rocks!!"
+baseurl: "/gamejamreus"
 url: "http://gdgtarragona.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-55386227-1"
+googleAnalyticsTrackingId: "UA-77237840-1"
 googleAnalyticsSiteUrl: "gdgtarragona.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
@@ -170,9 +170,13 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Los GDG DevFest son eventos organizados por los Google Developer Groups de todo el mundo. Tienen lugar entre los meses de septiembre y noviembre centrandose principalmente en tecnologías Google.
+aboutUs: "GameJam URV-Reus és un esdeveniment dedicat al món del desenvolupament i la creació de videojocs que tindrà lloc aquest cap de setmana del 6 al 8 de Maig a FiraReus. Té com a objectiu ajuntar en un espai comú a professionals del sector amb estudiants i creatius locals, per a que en un temps reduït -un màxim de 36 hores- puguin demostrar el seu talent creant un videojoc sobre un tema concret.
 
-Por primera vez, este año llega a la provincia de Tarragona el GDG DevFest Reus de la mano del GDG Tarragona. El evento tendrá lugar el sábado 25 de octubre en las instalaciones de firaReus en el Tecnoparc."
+Més enllà de l’objectiu de crear productes durant la jornada, volem potenciar la relació entre els actors necessaris per impulsar el ecosistema de creadors de videojocs al nostre territori. La GameJam URV-Reus vol ser una plataforma on tots aquells interessats en aquest tema puguin gaudir de ponències per professionals del sector que explicaran la situació actual del mercat, integrar-se en un equip multidisciplinar amb el que compartir l’experiència de crear un producte nou, i gaudir d’un equip de mentors experts del tema que aportaran la seva experiència en el món dels videojocs.
+
+Les jornades estan dirigides a tots aquells interessats en el món dels videojocs, professionals del sector, estudiants universitaris del graus d’informàtica o de cicles de formació superior. També convidem a tots aquells creatius, dissenyadors i il·lustradors interessats en crear el seu primer videojoc amb el suport dels mentors que formen l’equip organitzador.
+
+El GameJam URV-Reus està organitzat pel Google Developer Group TGN, el grup de voluntaris de ThinkIT_ i un grup d’alumnes d’informàtica de la URV, amb la col·laboració de l'Ajuntament de Reus, la firaReus, el Departament d’Enginyeria Informàtica i Matemàtiques de la URV dins els actes dels 25 anys d'informàtica a Tarragona, elGato Gaming, Unity i de l'estudi de disseny Mènsula Studio."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
