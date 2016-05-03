@@ -53,24 +53,16 @@
   service: true
 -
   id: 001
-  title: "Presentation 1"
+  title: "Presentations"
   description: ""
   subtype: presentation
-  speakers: [0]
   language: ES
   complexity: "Intermediate"
 -
   id: 002
-  title: "Presentation 2"
+  title: "Presentations"
   subtype: presentation
-  speakers: [1]
   language: ES
   complexity: "Intermediate"
 -
-  id: 003
-  title: "Presentation 3"
-  description: ""
-  subtype: presentation
-  speakers: [2]
-  language: ES
-  complexity: "Intermediate"
+
