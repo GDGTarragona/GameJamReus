@@ -36,19 +36,16 @@
 
 -
     id: 0
-    name: ""
-    surname: "TomasGiS"
-    company: "Sm4rt Cities"
+    name: "Raul"
+    surname: "Herrero"
+    company: "Digital Legends Entertainment"
     title: ""
     bio: ""
-    thumbnailUrl: TomasGiS.jpg
+    thumbnailUrl: unkown_boy.png
     rockstar: true
 
     social:
-    - {name: "google-plus", link: "https://google.com/+TomasGiS"}
-    - {name: "twitter", link: "https://twitter.com/TomasGiS"}
-    - {name: "github", link: "https://github.com/TomasGiS"}
-    - {name: "site", link: "http://www.tomasgis.cat/"}
+    - {name: "site", link: "https://es.linkedin.com/in/raul-herrero-085aa05"}
 -
     id: 8
     name: "Vanessa"
