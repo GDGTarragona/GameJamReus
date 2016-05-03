@@ -47,7 +47,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.png"
 heroTitle: "GameJam <typeout> 2016"
-eventDate: “"
+eventDate: 
 typeoutTextValues: '"", "Reus", "URV"'
 typeoutFallback: "Reus"
 heroButtons:
