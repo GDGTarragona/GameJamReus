@@ -1,92 +1,32 @@
 -
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2016-05-6"
+  dateReadable: "Maig 6"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
+    - {title: "GameJam", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "8:30",
-    	endTime: "9:00",
+    	startTime: "16:30",
+    	endTime: "17:00",
     	sessionIds: [101]
     }
     - {
-    	startTime: "9:00",
-    	endTime: "9:15",
+    	startTime: "17:00",
+    	endTime: "18:00",
     	sessionIds: [102]
     }
     - {
-        startTime: "9:15",
-        endTime: "10:00",
+        startTime: "18:00",
+        endTime: "18:30",
         sessionIds: [004]
     }
     - {
-    	startTime: "10:05",
-    	endTime: "10:50",
+    	startTime: "18:30",
+    	endTime: "21:00",
     	sessionIds: [003]
     }
     - {
-        startTime: "10:50",
-        endTime: "11:10",
+        startTime: "21:00",
+        endTime: "21:10",
         sessionIds: [307]
     }
-    - {
-        startTime: "11:10",
-        endTime: "11:45",
-        sessionIds: [001]
-    }
-    - {
-        startTime: "11:45",
-        endTime: "12:45",
-        sessionIds: [005]
-    }
-    - {
-        startTime: "12:50",
-        endTime: "13:35",
-        sessionIds: [006]
-    }
-    - {
-        startTime: "13:40",
-        endTime: "14:00",
-        sessionIds: [008]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "15:00",
-        sessionIds: [503]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "15:45",
-        sessionIds: [002]
-    }
-    - {
-        startTime: "15:50",
-        endTime: "16:35",
-        sessionIds: [007]
-    }
-    - {
-        startTime: "16:35",
-        endTime: "16:50",
-        sessionIds: [307]
-    }
-    - {
-        startTime: "16:40",
-        endTime: "17:25",
-        sessionIds: [009]
-    }
-
-    - {
-        startTime: "17:30",
-        endTime: "18:00",
-        sessionIds: [600]
-    }
-    - {
-        startTime: "18:00",
-        endTime: "18:10",
-        sessionIds: [601]
-    }
-    - {
-        startTime: "18:10",
-        endTime: "19:00",
-        sessionIds: [602]
-    }
+    
