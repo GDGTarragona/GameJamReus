@@ -1,5 +1,5 @@
 -
-    id: 4
+    id: 1
     name: "Vanessa"
     surname: "Galcerà"
     title: "GDG and WTM Organizer"
@@ -27,43 +27,15 @@
     - {name: "site", link: "http://www.tomasgis.cat/"}
 
 -
-    id: 1
-    name: "Jordi"
-    surname: "Rodriguez"
-    title: "GDG Organizer"
-    thumbnailUrl: jordick.jpg
-    team: true
-    ribbon:
-        - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
-    social:
-        - {name: "google-plus", link: "https://google.com/+JordiRodriguezSoler"}
-        - {name: "twitter", link: "https://twitter.com/Jordick"}
-        - {name: "github", link: "https://github.com/Jordick"}
-        - {name: "site", link: "http://www.jordick.es/"}
+  id: 2
+  name: "Jordi"
+  surname: "Duch"
+  company: "URV"
+  title: ""
+  thumbnailUrl: jordiDuch.png
+  team: true
+  ribbon:
+    - {abbr: "URV", title: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/101787050467842633901/"}
 
--
-    id: 5
-    name: "Anna"
-    surname: "Lopez Grau"
-    title: "GDG and WTM Organizer"
-    thumbnailUrl: annaLopez.jpg
-    team: true
-    ribbon:
-    - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
-    social:
-    - {name: "google-plus", link: "https://google.com/+ViscalabonavidaCat"}
-    - {name: "twitter", link: "https://twitter.com/viscalabonavida"}
-    - {name: "site", link: "http://www.viscalabonavida.cat/"}
--
-    id: 6
-    name: "Julio"
-    surname: "Bondia"
-    title: "GDG Organizer"
-    thumbnailUrl: julioBondia.jpg
-    team: true
-    ribbon:
-    - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
-    social:
-    - {name: "google-plus", link: "https://google.com/+JulioBondía"}
-    - {name: "twitter", link: "https://twitter.com/jbondia"}
-    - {name: "github", link: "https://github.com/jbondia"}
