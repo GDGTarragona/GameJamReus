@@ -1,27 +1,24 @@
 -
     id: 1
-    name: "Jordi"
-    surname: "Rodriguez"
-    company: "Dinamitzador digital"
-    title: "Android Wear"
+    name: "Daniel"
+    surname: "Villanueva"
+    company: "Escola de Cinema de Reus"
+    title: ""
     bio: ""
-    thumbnailUrl: jordick.jpg
+    thumbnailUrl: unkown_boy.png
     rockstar: true
     social:
-    - {name: "google-plus", link: "https://plus.google.com/+JordiRodriguezSoler/"}
-    - {name: "site", link: "http://www.jordick.es/"}
+    - {name: "site", link: "https://www.linkedin.com/in/daniel-villanueva-margalef-a9b62718/"}
 -
     id: 2
-    name: "Albert"
-    surname: "Abelló"
-    company: "Ilustrum"
-    title: "Building the money machine"
-    bio: "Game designer i emprenedor. Creador del joc de cartes coleccionables i trivial ilustrum."
-    thumbnailUrl: albertAbello.jpg
+    name: "Jose Antonio"
+    surname: "Muñiz"
+    company: "Digivision"
+    title: ""
+    thumbnailUrl: unkown_boy.png
     rockstar: true
     social:
-    - {name: "google-plus", link: "https://plus.google.com/+AlbertAbello/"}
-    - {name: "site", link: "http://www.illustrum.com/"}
+    - {name: "site", link: "https://www.linkedin.com/in/jose-antonio-mu%C3%B1iz-olivares-52746262/en"}
 -
     id: 3
     name: "Jordi"
@@ -46,16 +43,4 @@
 
     social:
     - {name: "site", link: "https://es.linkedin.com/in/raul-herrero-085aa05"}
--
-    id: 8
-    name: "Vanessa"
-    surname: "Galcerà"
-    company: "Sm4rt Cities"
-    title: ""
-    bio: ""
-    thumbnailUrl: vanessaGalcera.jpg
-    rockstar: true
-    social:
-    - {name: "google-plus", link: "https://google.com/+VanessaGalcera"}
-    - {name: "twitter", link: "https://twitter.com/vanessagare"}
-    - {name: "site", link: "http://www.vgalcera.wordpress.com/"}
+
