@@ -1,18 +1,15 @@
 - 
   id: 8
-  name: "Leo"
-  surname: "Blazquez"
-  company: "Amersam"
-  title: "CIO"
-  thumbnailUrl: leo.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+LeoBlázquez"}
-    - {name: "twitter", link: "https://twitter.com/leoblazquez"}
-    - {name: "Linked-in", link: "http://t.co/PjNYQNWFXO"}
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl: unkown_boy.png
+
 -
     id: 20
-    name: "Francesc"
-    surname: "Just"
-    company: "Reus Transport"
-    title: "Cap de Transport"
-    thumbnailUrl: just.jpg
+    name: ""
+    surname: ""
+    company: ""
+    title: ""
+    thumbnailUrl: unkown_boy.png
