@@ -6,4 +6,4 @@
     - {name: "firaReus", description: "firaReus", link: "http://www.firareus.com", imageUrl: "firareus.png", width: "100px"}
     - {name: "Deim", description: "Deim URV", link: "http://deim.urv.cat/", imageUrl: "logo_deim.png", width: "180px"}
     - {name: "El Gato Gaming", description: "El Gato Gaming", link: "https://www.elgato.com/es/gaming", imageUrl: "none.png"}
-    - {name: "Mensula Studio", description: "Mensula", link: "http://www.mensula.cat/", imageUrl: "logo_mensula.png"}
+    - {name: "Mensula Studio", description: "Mensula", link: "http://www.mensula.cat/", imageUrl: "logo_mensula.png", width: "125px"}
