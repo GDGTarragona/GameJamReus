@@ -31,3 +31,14 @@
     social:
     - {name: "site", link: "https://es.linkedin.com/in/raul-herrero-085aa05"}
 
+-
+    id: 3
+    name: "Pendent"
+    surname: ""
+    company: ""
+    title: ""
+    bio: ""
+    thumbnailUrl: unkown_boy.png
+    rockstar: true
+    social:
+    - {name: "site", link: "http://gdgtarragona.net"}
