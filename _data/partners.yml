@@ -2,7 +2,7 @@
 -
   group: "With support of"
   elements: 
-    - {name: "Ajuntament de Reus", description: "Google", link: "https://www.reus.cat", imageUrl: "reustransport.png", width: "120px"}
+    - {name: "Ajuntament de Reus", description: "Ajuntament de Reus", link: "https://www.reus.cat", imageUrl: "ajuntament_reus.jpg", width: "120px"}
     - {name: "firaReus", description: "firaReus", link: "http://www.firareus.com", imageUrl: "firareus.png", width: "125px"}
 
 
@@ -10,6 +10,6 @@
 -
   group: "Sponsors"
   elements:
-    - {name: "Deim", description: "Deim URV", link: "http://deim.urv.cat/", imageUrl: "dospunts.png"}
-    - {name: "El Gato Gaming", description: "El Gato Gaming", link: "https://www.elgato.com/es/gaming", imageUrl: "dospunts.png"}
-    - {name: "Mensula Studio", description: "Mensula", link: "http://www.mensula.cat/", imageUrl: "dospunts.png"}
+    - {name: "Deim", description: "Deim URV", link: "http://deim.urv.cat/", imageUrl: "logo_deim.png"}
+    - {name: "El Gato Gaming", description: "El Gato Gaming", link: "https://www.elgato.com/es/gaming", imageUrl: "none.png"}
+    - {name: "Mensula Studio", description: "Mensula", link: "http://www.mensula.cat/", imageUrl: "logo_mensula.png"}
