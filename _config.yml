@@ -43,7 +43,6 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Como llegar"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/fISuGq", text: "Become a speaker"}
 rightNavigationButtons:
@@ -51,9 +50,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
+heroTitle: "Game Jam <typeout> 2016"
 eventDate: “25 Octubre, 2014"
-typeoutTextValues: '"", "Reus", "Tarragona"'
+typeoutTextValues: '"", "Reus", "URV"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/fISuGq", text: "Become a speaker"}
@@ -134,11 +133,11 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "200"
   ribbon: "Free"
-  buyButtonLink: "http://devfestreus.eventbrite.es"
+  buyButtonLink: "http://entradesgamejam.gdgtarragona.net"
   buyButtonText: "Buy Now"
   ticketContentList: ["Entrada general", "", ""]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-10-24T23:59"
+  validFrom: "2016-05-06T17:00"
+  validThrough: "2016-05-08T15:00"
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/110881000795710392242", icon: "google-plus"}
@@ -163,7 +162,7 @@ footerBlocks:
 # Blog
 blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
-discusShortName: "DevFestReus"
+discusShortName: "GameJamReus"
 
 # Speakers List Block
 showSessions: true
@@ -208,7 +207,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
