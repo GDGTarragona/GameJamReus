@@ -47,9 +47,9 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.png"
 heroTitle: "GameJam <typeout> 2016"
-eventDate: “06 Mayo, 2016"
+eventDate: “"
 typeoutTextValues: '"", "Reus", "URV"'
-typeoutFallback: "Season"
+typeoutFallback: "Reus"
 heroButtons:
  - {permalink: "/#tickets", text: "Consigue una entrada"}
 
