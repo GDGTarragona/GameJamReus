@@ -30,7 +30,7 @@
     service: true
 -
     id: 107
-    title: "Presentacions"
+    title: "Presentacions Treballs i Entrega de Premis"
     place: "Room 1"
     service: true
 -
@@ -53,14 +53,14 @@
   service: true
 -
   id: 001
-  title: "Presentations"
+  title: "Presentacions Ponents"
   description: ""
   subtype: presentation
   language: ES
   complexity: "Intermediate"
 -
   id: 002
-  title: "Presentations"
+  title: "Presentacions Ponents"
   subtype: presentation
   language: ES
   complexity: "Intermediate"
