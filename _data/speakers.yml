@@ -33,12 +33,12 @@
 
 -
     id: 3
-    name: "Pendent"
-    surname: ""
-    company: ""
+    name: "Raul"
+    surname: "Herrero"
+    company: "Digital Legends Entertainment"
     title: ""
     bio: ""
     thumbnailUrl: unkown_boy.png
     rockstar: false
     social:
-    - {name: "site", link: "http://gdgtarragona.net"}
+    - {name: "site", link: "https://es.linkedin.com/in/raul-herrero-085aa05"}
