@@ -40,9 +40,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Como llegar"}
+ - {permalink: "/speakers/", text: "Ponents"}
+ - {permalink: "/team/", text: "Equip"}
+ - {permalink: "/logistics/", text: "Com arribar"}
 
 # Hero Block
 heroImage: "hero.png"
