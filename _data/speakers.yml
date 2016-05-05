@@ -21,15 +21,15 @@
     - {name: "site", link: "https://www.linkedin.com/in/jose-antonio-mu%C3%B1iz-olivares-52746262/en"}
 -
     id: 0
-    name: "Raul"
-    surname: "Herrero"
-    company: "Digital Legends Entertainment"
+    name: "Albert"
+    surname: "Abelló"
+    company: "ex-COO/Game Director Ilustrum Multimedia S.L."
     title: ""
     bio: ""
-    thumbnailUrl: unkown_boy.png
+    thumbnailUrl: albertAbello.jpg
     rockstar: true
     social:
-    - {name: "site", link: "https://es.linkedin.com/in/raul-herrero-085aa05"}
+    - {name: "site", link: "https://www.linkedin.com/in/albertabello"}
 
 -
     id: 3
